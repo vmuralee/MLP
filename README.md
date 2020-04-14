@@ -1,7 +1,7 @@
 # MLP
 Some of my Multi Layer Perception projects 
 ## Installing ROOT6 using Anaconda binaries.  
-Download the Linux installer
+Download the Linux installer </br>s
 wget -nv http://repo.continuum.io/miniconda/Miniconda3-latest-Linux-x86_64.sh -O miniconda.sh
 To execute 
 chmod +x miniconda.sh
